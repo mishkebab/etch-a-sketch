@@ -1,0 +1,9 @@
+.row {
+    padding: 15px;
+    justify-content: left;
+  }
+
+.column {
+    float: left;
+    padding: 15px;
+  }
